@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: [name]
+ Player X: Yukka
  
- Player O: [name]
+ Player O: Also Yukka
 
 -------------
 
