@@ -8,14 +8,14 @@ Commits N Crosses
 	|---|---|---|
 	|   | X |   |
 	|---|---|---|
-	|   | O |   |
+	|   | ØX|   |
 	|---|---|---|
 
 -------------
 
  Player X: Yukka
  
- Player O: Also Yukka
+ Player O: Jim
 
 -------------
 
